@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>JST_HUMOR RELOADED</title>
+  <script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
+  <script src="data.js"></script>
+</head>
+
+<style>
+  body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: cornflowerblue;
+  }
+
+  h1 {
+    font-size: 5em;
+  }
+
+  button {
+    font-size: 3em;
+    padding: 5px 30px;
+  }
+
+  .middle {
+    margin: 0px 50px;
+  }
+
+  .joke {
+    white-space: pre-line;
+    font-size: 4em;
+    margin-top: 50px;
+    background-color: yellow;
+    padding: 20px
+  }
+</style>
+
+<body>
+  <div id="app">
+    <div id="header">
+      <h1>JST_HUMOR RELOADED</h1>
+      <button @click="showHelp=!showHelp"><span v-if="!showHelp">Co to sakra je?</span><span v-else>Ok, zpět na
+          humor</span></button>
+      <span v-if="!showHelp">
+        <button class="middle" @click="index=Math.floor(Math.random()*jokes.length)">Vyber mi mi náhodně</button>
+        <button @click="index++">Další stejně dobrý vtip</button>
+      </span>
+    </div>
+
+    <div id="content">
+      <div class="joke" v-if="!showHelp">{{jokes[index].text}}</div>
+      <div class="joke" v-else>Tuto krádnou sbírku vtipů vytvořil pro milovanou Etnetera Group Jirka Štěpán.
+        Obsahuje vtipy pochybné kvality z let 2010 - 2016. 
+        Vtipy nemají za úkol být nějak kvalitní. Naopak. Jsou to vtipy pitomé, nekorektní a zhusta opravdu nevtipné. <br/>
+        Ale takové mám prostě rád.
+      </div>
+    </div>
+  </div>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      var app = new Vue({
+        el: '#app',
+        data: {
+          index: 0,
+          showHelp: false,
+          jokes: jokeDB
+        }
+      })
+    })
+  </script>
+
+</body>
+
+</html>
