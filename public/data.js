@@ -1,5 +1,29 @@
 var jokeDB = [
     {
+        "text": "Kalné ráno po svatbě v Káni galilejské.\nJan se probudí, chytne se za hlavu a zasténá:\n\"Doneste někdo vodu ... ne, Ježíši, ty už ne!\"",
+        "date": "2010-11-17"
+    },
+    {
+        "text": "Nejčastěji překládanou knihou na světě je leporelo.",
+        "date": "2016-05-14"
+    },
+    {
+        "text": "Nejlepší způsob, jak si zapamatovat narozeniny své ženy, je jednou na ně zapomenout..",
+        "date": "2013-11-19"
+    },
+    {
+        "text": "Jan Hus se jen snažil dělat svou práci, ale církev mu házela klacky pod nohy.",
+        "date": "2016-06-20"
+    },
+    {
+        "text": "Jsem nějaká přetažená, povzdychla si předkožka...",
+        "date": "2010-10-16"
+    },
+    {
+        "text": "S ženou jsme se rozhodli, že nechceme děti.\nNesou to pomerně těžce.",
+        "date": "2016-06-20"
+    },
+    {
         "text": "Smál jesem se jak kočka zběsile skáče na zdi a loví prasátko, které hází moje hodinky. A pak jsem si vzpomněl na Pokemon Go.",
         "date": "2016-06-20"
     },
@@ -24,10 +48,6 @@ var jokeDB = [
         "date": "2016-06-20"
     },
     {
-        "text": "Jan Hus se jen snažil dělat svou práci, ale církev mu házela klacky pod nohy.",
-        "date": "2016-06-20"
-    },
-    {
         "text": "Syn: \"Tati, co je to pornokazeta?\"\nOtec: \"Eee, to je, když se dva mají moc rádi a...\"\nSyn: \"Já vím, co je porno, ale co je kazeta.\"",
         "date": "2016-06-20"
     },
@@ -39,10 +59,7 @@ var jokeDB = [
         "text": "Nejsem si úplně jistej, že pořekadlo \"Po bitvě je každej generál\" platí i v dnešním Turecku.",
         "date": "2016-06-20"
     },
-    {
-        "text": "S ženou jsme se rozhodli, že nechceme děti.\nNesou to pomerně těžce.",
-        "date": "2016-06-20"
-    },
+
     {
         "text": "Místo hubnutí do plavek jsem se letos rozhodl ztloustnout do nafukovacího kruhu.",
         "date": "2016-06-20"
@@ -448,10 +465,6 @@ var jokeDB = [
         "date": "2015-06-23"
     },
     {
-        "text": "",
-        "date": "2015-06-23"
-    },
-    {
         "text": "Chuck Norris otevřel tunel Blanka. Třikrát.",
         "date": "2015-02-04"
     },
@@ -465,10 +478,6 @@ var jokeDB = [
     },
     {
         "text": "Tomu tunelu v Praze neměli dávat ženský jméno. Se pak nemůžou divit, že je vodspoda mokrá, furt rozdělaná a nikdo neví, kdy bude konečně hotová.",
-        "date": "2015-02-04"
-    },
-    {
-        "text": "konec sekce Blanka",
         "date": "2015-02-04"
     },
     {
@@ -908,10 +917,6 @@ var jokeDB = [
         "date": "2014-09-02"
     },
     {
-        "text": "",
-        "date": "2014-09-02"
-    },
-    {
         "text": "Umělec na zvukaře po koncertě:\n\"Bylo slyšet to moje sólo?\"\n\"Bylo, ale nic si z toho nedělej.\"",
         "date": "2014-06-22"
     },
@@ -1095,10 +1100,7 @@ var jokeDB = [
         "text": "\"Pokud se někdy ztratíte v lese, kompas vám pomůže ztratit se víc na sever.\"",
         "date": "2013-11-19"
     },
-    {
-        "text": "Nejlepší způsob, jak si zapamatovat narozeniny své ženy, je jednou na ně zapomenout..",
-        "date": "2013-11-19"
-    },
+ 
     {
         "text": "... a ten jak přijdou za Háchou ať se jde podívat na něco co se ráno objevilo v průjezdu znáte?\nTak se Hácha jde podívat a vidí nápis \"Hitler je vůl\" - sundá brejle, zamžourá, podívá se znova... Pak začne kroutit hlavou a říká \"Já už fakt nevim co s něma... a řikam jim to pořád - nejdřív německy a pod to to teprve napsat česky, ale to je jak když mluvíte do dubu...\"",
         "date": "2013-11-19"
@@ -1295,10 +1297,7 @@ var jokeDB = [
         "text": "První žena na Měsíci:\nHoustone, máme problém!\n- Co?\nAle nic, nech to být.\n- Co se stalo?\nNic...\n- Tak mi to řekni.\nNe.",
         "date": "2013-09-21"
     },
-    {
-        "text": "",
-        "date": "2013-09-21"
-    },
+
     {
         "text": "Víte, co dělá chobotnice, když jí useknete všech 8 chapadel? \n\n\nNechápe.",
         "date": "2013-07-26"
@@ -1415,10 +1414,7 @@ var jokeDB = [
         "text": "\"Lidi nejsou informovaný, na otázku na koho by se obrátili, kdyby pršelo 40 dní a 40 nocí, často odpovídají tázavým: Nóóóó éééé.\"",
         "date": "2013-05-14"
     },
-    {
-        "text": "",
-        "date": "2013-05-14"
-    },
+    
     {
         "text": "Ženy mívají různé důvody k rozvodu. Ten, že na Vás velmi blízká spolupracovnice vašeho manžela pošle sledovačku vojenské tajné služby, patří mezi ty silnější.",
         "date": "2013-05-14"
@@ -1499,10 +1495,7 @@ var jokeDB = [
         "text": "\"Mami, zejtra máme zkoušku ze zeměpisu.\n\" Můžeš mě vyzkoušet?\"\n\"To víš že jo.\n\"Jaký je hlavní město Německa?\"\n\"Berlín.\"\n\"A jaký je hlavní město Francie?\"\n\"Berlín.\"\n\"A jaký je hlavní město Velký Británie?\"\n\"Berlín.\"\n\"Moc hezky ses to naučil, Adolfku.\"",
         "date": "2013-03-25"
     },
-    {
-        "text": "",
-        "date": "2013-03-25"
-    },
+   
     {
         "text": "Proč není nový papež černoch?\n\n\n\nProtože by to ministranty bolelo.",
         "date": "2013-02-29"
@@ -1555,10 +1548,7 @@ var jokeDB = [
         "text": "Čtyři kamarádi se už dávno dohodli, že pojedou na pořádnou pařbu pod stany. \nDva dny před odjezdem najednou říká jeden z nich: \"Sorry, kluci, ale manželka mě nechce pustit, máme výročí a prý pro mne má fantastické překvapení. Tak si to užijte beze mně...\"Ostatní jsou samozřejmě namíchnutí. Ale mají už všechno nakoupené, a tak se rozhodli, že jedou. Za dva dny přijedou na místo, čtvrtý kamarád už je tam, stan postavený, v ohništi hoří oheň, pivo se chladí a dřevo nachystané na celý víkend. Ptají se ho, jak je to možné, když jim říkal, že nemůže.\"No, páni, včera večer si sedím na gauči, piju pivo, koukám na fotbal. Najednou se manželka přikradla, zakryla mi oči a když mě pustila, tak tam stála v průsvitném spodním prádle. Potom mě vzala do ložnice. Tam hořely svíčky, po zemi plátky růží a na posteli pouta. Řekla mi, ať ji přivážu k posteli.Když jsem to udělal, pokračovala: \"Teď můžeš dělat, co jen chceš.\" \"CHLAPI, TAK JSEM TADY\" !",
         "date": "2013-02-29"
     },
-    {
-        "text": "",
-        "date": "2013-02-29"
-    },
+    
     {
         "text": "Papež se ve Vatikánu rozloučil s věřícími. \"Na stará kolena se už chci věnovat pouze dětem,\" svěřil se přihlížejícím davům.",
         "date": "2013-02-12"
@@ -1599,10 +1589,7 @@ var jokeDB = [
         "text": "\"To je dneska mládež, pani,\nšestnáctiletá holka si přijde\nk ránu z flámu, a že má\nmáma třicátý narozeniny,\nna to ani nevzdechne!\"",
         "date": "2013-02-12"
     },
-    {
-        "text": "",
-        "date": "2013-02-12"
-    },
+    
     {
         "text": "E.T. se vrátí domů a manželka mu hned říká: \"Mohl jsi aspoň zavolat\".",
         "date": "2013-01-12"
@@ -1651,10 +1638,7 @@ var jokeDB = [
         "text": "Zevnitř je to žluté, měkké, třaslavé. Zvenku tvrdé, nejdřív červené, pak zelené. Co je to?\n.\n.\n.\n.\nVanilkový pudink pobitý měděným plechem.",
         "date": "2013-01-12"
     },
-    {
-        "text": "",
-        "date": "2013-01-12"
-    },
+    
     {
         "text": "Karel má nejvíce voličů na sociálních sítích. Miloš na sociálních dávkách",
         "date": "2013-00-23"
@@ -1687,10 +1671,7 @@ var jokeDB = [
         "text": "\"Tati, přeložili mě do zvláštní školy.\"\n\"Výborně synku, když na to máš, tak studuj.\"",
         "date": "2013-00-23"
     },
-    {
-        "text": "",
-        "date": "2013-00-23"
-    },
+   
     {
         "text": "Sex prý prodlužuje život...\" řekl si Klaus a vyjebal s celou republikou.",
         "date": "2013-00-18"
@@ -1775,10 +1756,7 @@ var jokeDB = [
         "text": "Já se na to vykašlu, už je rok 2011 a pořád žádnej lék na ztrátu paměti.",
         "date": "2013-00-11"
     },
-    {
-        "text": "",
-        "date": "2013-00-11"
-    },
+   
     {
         "text": "Máte raději svíčkovou nebo vepřo-knedlo-zelo?\n\nFischer: Poradím se s týmem a ozvu se vám do čtyř pracovních dní. \nSobotka: Jsou chvíle, kdy mám rád svíčkovou, ale doma dávám přednost vepřo-knedlo-zelo, je-li to ovšem nutné, svíčkovou nepohrdnu, pokud není k mání vepřo-knedlo-zelo.\n\nZeman: Pokud byste mě poslouchali, vy duté omezené hlavy, tak byste věděli, že nejraději mám ovar. To vy ovšem ve své nadutosti nejste schopni připustit.\n\nFranz: Tato otázka je signifikantním problémem moderní doby, kdy jedinec, svázaný okovy společnosti, nevidí mimo vlastní zorné pole, netuší proto, že má na výběr z vícero možností a jeho volba není kontextuálně omezena pouhou svíčkovou nebo vepřem-knedlem-zelem, naopak se zda nachází přepestrá škála kulinářských motivů.\n\nBobošíková: Cokoliv, jen ne bratwurst!\n\nSchwarzenberg: Děkuji, nechci.\n\nDienstbier: V naší zemi jsou tisíce lidí, kteří nemají ani na jedno. Změním to. Pokud mám mluvit za sebe, tak svíčkovou.\n\nFischerová: Rozhodně jen knedlo-zelo, mrtvá zvířátka nejím.\n\nRoithová: Ano.",
         "date": "2013-00-03"
@@ -1875,10 +1853,7 @@ var jokeDB = [
         "text": "Z rádia se ozve: \"Česká republika hrála s Bulharskem bez branek.\" Manžel vrčí cosi o lemrách neschopných dát gól a manželka se k němu otočí: \"Proč jim nadáváš? To je přece jasné, že nemohli dát gól, když se hrálo bez branek.\"",
         "date": "2012-11-03"
     },
-    {
-        "text": "",
-        "date": "2012-11-03"
-    },
+
     {
         "text": "Babička měla dva stejné kocourky...a aby je rozeznala...jednomu dala jméno Mourek........a druhého utopila v potoce.",
         "date": "2012-10-12"
@@ -1921,10 +1896,6 @@ var jokeDB = [
     },
     {
         "text": "Pokaždé, když někdo napíše \"SEO optimalizace\", Bůh zabije koťátko kotě mourek koťátka na prodej nádherná britská koťátka.",
-        "date": "2012-10-12"
-    },
-    {
-        "text": "",
         "date": "2012-10-12"
     },
     {
@@ -1987,10 +1958,7 @@ var jokeDB = [
         "text": "Brežněv se chlubí:\n\"Mám nového koníčka, sbírám politické vtipy o sobě.\"\n\"A kolik jich už máte?\"\n\"Zatím jen dva a půl lágru.\"",
         "date": "2012-10-01"
     },
-    {
-        "text": "",
-        "date": "2012-10-01"
-    },
+    
     {
         "text": "Jižní Korea přestala posílat KLDR letáky poté,co jim začla vyhrožovat odstřelováním.Uvidíme,jestli to bude fungovat i u našeho Kauflandu",
         "date": "2012-09-22"
@@ -1999,10 +1967,7 @@ var jokeDB = [
         "text": "Žádám, aby Evropská unie zakázala Británii používat pro motýly termín butterfly, neboť neobsahují 80 % mléčného tuku.",
         "date": "2012-09-22"
     },
-    {
-        "text": "",
-        "date": "2012-09-22"
-    },
+    
     {
         "text": "Zloděj vyloupí banku,vezme dva muže jako rukojmí a ptá se prvního: \" Viděl jsi mě jak vykrádám banku ?\"\n Muž odpoví: \"Ano\".Zloděj jej okamžitě střelí z pistole do hlavy. Potom se ptá druhého muže: \"Tys mě taky viděl jak vykrádám banku?\" Muž odpoví: \"Já ne, ale moje stará tě viděla a řekla to tchýni...\" \n(thx. Dasa)",
         "date": "2012-09-22"
@@ -2047,10 +2012,7 @@ var jokeDB = [
         "text": "Víte jak se říká hořícímu polákovi? Plápolák",
         "date": "2012-09-22"
     },
-    {
-        "text": "",
-        "date": "2012-09-22"
-    },
+    
     {
         "text": "Jaký prezident, takový atentát.",
         "date": "2012-09-12"
@@ -2101,10 +2063,6 @@ var jokeDB = [
     },
     {
         "text": "Američan, Angličan a Sovět se vsází, kdo donutí kočku sníst pálivou hořčici.... Prví jde američan... Vezme kočku a narve jí hořčici palcem do tlamy. \"To je násilí!\", protestuje Sovět.\nPak jde Angličan. Namaže hořčici mezi dvě kolečka klobásy a kočka ji sní i s klobáskou.\n\"To je podvod!\", protestuje Sovět.\nKdyž je na řadě, natře hořčicí kočce prdel. Ta si jí za soustavného prskání mňaučení slíže...\nVidíte soudruzi? Dobrovolně a s písní na rtech!",
-        "date": "2012-09-12"
-    },
-    {
-        "text": "PS: na mem firemnim Google+ profilu si muzete jako bonus prohlednout vtipy z posledniho Kaufland letaku, ktere se mi nechtelo prepisovat.        Kdyz uz tam polezete, vyplnte si kontakt.\n       https://plus.google.com/u/0/104921073950426093594/posts (stránka je veřejná)",
         "date": "2012-09-12"
     },
     {
@@ -2201,10 +2159,6 @@ var jokeDB = [
     },
     {
         "text": "Minulou noc jsem na ulici objevil mladou dívku zjevně bez domova schovanou se mezi popelnicemi. Byla celá špinavá a neskutečně zapáchala, ale věděl jsem, že se pod tím vším skrývá krásná dívka a ujal jsem se jí. Vzal jsem ji tedy domů, osprchoval ji a když jsem jí utíral, začal jsem být vzrušený. Všechno šlo ráz na ráz a než jsem se rozkoukal, už jsem jí šukal na podlaze v koupelně. A v jednu chvíli jsem si to s ní dokonce rozdával tak divoce, že by jeden řekl, že je pořád ještě živá.",
-        "date": "2012-07-27"
-    },
-    {
-        "text": "PS: Ano sliboval jsem zvířátko, ale uteklo. Mrcha nevděčná.",
         "date": "2012-07-27"
     },
     {
@@ -2351,18 +2305,12 @@ var jokeDB = [
         "text": "Rozdava si to Speedy Gonzales s nejakou vydatou panickou, ked tu zrazu niekto zaklope.\n - \"Oh, to bude moj manzel\" vykrikne zena\n Speedy Gonzales neleni, schmatne sombrero a vyskoci z okna. Ona otvori dvere a tam stoji Speedy Gonzales a vravi:\n - \"zabudol som si tu nohavice.\"",
         "date": "2012-05-13"
     },
-    {
-        "text": "OPRAVA",
-        "date": "2012-04-29"
-    },
+    
     {
         "text": "Celé je to omyl. Hostivice objednávala deratizaci a sekretářka se překlepla!",
         "date": "2012-04-29"
     },
-    {
-        "text": "/OPRAVA",
-        "date": "2012-04-29"
-    },
+   
     {
         "text": "\"To je vám věc, teta,\" chválí se tetina z vesnice sousedce, když jim zavedli plyn, \"ten plynový sporák! Před týdnem jsem ho zapálila a on pořád hoří!\"",
         "date": "2012-04-29"
@@ -2555,10 +2503,7 @@ var jokeDB = [
         "text": "Seznámí se mladý muž s blondýnkou. Při rozloučení se zeptá: \"Mohu ti zítra zavolat do práce?\" \"Můžeš, ale kdyby to brala šéfová, tak to polož.\" \"Jak jí ale poznám?\" \"Je zrzavá a má brejle.\"",
         "date": "2012-02-27"
     },
-    {
-        "text": "",
-        "date": "2012-02-27"
-    },
+    
     {
         "text": "Důstojník zastaví vojína: Vojíne, nemáte drobné za stovku?\n Jasně kámo.\n Takhle se oslovuje důstojník?? Zkuste to znovu!\n Nemám, pane majore!",
         "date": "2012-02-21"
@@ -2595,10 +2540,7 @@ var jokeDB = [
         "text": "První teoretik kvantové fyziky byla česká babička.\n \"Bylo, nebylo...\"\n\n První inženýr kvantové fyziky byl Hamlet.\n \"Být, či nebýt?\"\n\n První realizátoři holografických kvantových systémů byli komunisté.  Vynalezli holobyt.\n\n První člověk, který kompletně skloubil kvantovou teorii s teorií relativity byl Klaus.\n Opravdu, opravdu, ne.",
         "date": "2012-02-21"
     },
-    {
-        "text": "",
-        "date": "2012-02-21"
-    },
+    
     {
         "text": "\"Haló. Dovolali jste se do úřadu ruského prezidenta Dmitrije Medveděva. Pokud chcete s Dmitrijem Medveděvem mluvit, stiskněte dvojku.\"",
         "date": "2012-02-06"
@@ -2739,10 +2681,7 @@ var jokeDB = [
         "text": "Sexuálně aktivní žena středního věku informovala svého plastického chirurga,\n že chce zmenšit své stydké pysky, protože se věkem příliš zvětšily a zplihly.\n Z důvodu studu, trvala na tom že se o operaci nesmí nikdo dovědět.  Chirurg samozřejmě souhlasil.\n Když se probrala z anestezie, našla vedle sebe na posteli položené tři nádherné růže.\n To ji rozčílilo a okamžitě si nechala zavolat chirurga.\n \"Mám pocit, že jsem vás požádala aby se o mé operaci nikdo nedověděl\"!  Chirurg jí řekl, že splnil její přání důvěrnosti a že první růže byla od něj.\n \"Cítil jsem s vámi, protože jste si tím prošla bez jakékoli podpory blízkých.\"\n \"Druhá růže je od zdravotní sestry. Asistovala mi při operaci a cítila s  vámi, protože před nedávnem sama prošla touto procedurou..\"  \"A co ta třetí růže?\" zeptala se pacientka.\n \"Ta je od muže z oddělení spálenin - chtěl vám poděkovat za své nové uši.\"",
         "date": "2012-01-08"
     },
-    {
-        "text": "",
-        "date": "2012-01-08"
-    },
+   
     {
         "text": "Stephen Hawking je možná génius, ale tím že celý den sedí u počítače nedává dětem moc dobrý příklad...",
         "date": "2012-00-12"
@@ -2791,10 +2730,7 @@ var jokeDB = [
         "text": "Co vidi optimista na hrbitove?\n\nSame plusy",
         "date": "2012-00-12"
     },
-    {
-        "text": "",
-        "date": "2012-00-12"
-    },
+  
     {
         "text": "Přijde příslušník VB k Palachovi:\n\n\"Co tady oxiduješ ?!\"",
         "date": "2011-11-21"
@@ -2992,10 +2928,7 @@ var jokeDB = [
         "text": "Dear Eminem,\nNot only do we have the same name, but we're both black on the inside too. Sincerely, M&Ms.",
         "date": "2011-10-04"
     },
-    {
-        "text": "",
-        "date": "2011-10-04"
-    },
+  
     {
         "text": "Jde pán po ulici a táhne za sebou provázek. Druhý pán ho pozoruje a po  chvíli se zeptá: “Promiňte, ale proč za sebou táhnete ten provázek?” “Zkoušel jsem ho tlačit, ale on se krčil.”",
         "date": "2011-09-19"
@@ -3040,10 +2973,7 @@ var jokeDB = [
         "text": "Guinessova kniha rekordů: nejdelší cesta do sklepa pro meruňkový kompot a  zpět - Elizabeth Fritzlová, 24 let a kousek ...",
         "date": "2011-09-19"
     },
-    {
-        "text": "",
-        "date": "2011-09-19"
-    },
+
     {
         "text": "...\n\n>\n> Svět změnila 3 jablka.\n>   První svedlo Evu, druhé spadlo na Newtona a třetí nakousl a pak světu > nabídl Steve Jobs.\n\nTy sis na toho Steva nějak zased'... :-))\n\nP.",
         "date": "2011-09-11"
@@ -3249,10 +3179,7 @@ var jokeDB = [
         "text": "Jak se v Americe říká anorektičkám s mykózou?\n\nČtvrtlibrák se sýrem.",
         "date": "2011-08-12"
     },
-    {
-        "text": "",
-        "date": "2011-08-12"
-    },
+   
     {
         "text": "\"Myslím, že dnes konečně svolí přítelkyně k análnímu sexu. Ráno jsem jí dal  do kafe brufen. Píšou tam, že obsahuje anal-get-I-cum..\"",
         "date": "2011-07-31"
@@ -3419,10 +3346,7 @@ var jokeDB = [
         "text": "Jedna sedmnáctiletá dívka otěhotněla a lékař jí odmítl provést interrupci:  \"Podívej, zůstaneš tady a až děcko porodíš, podstrčím ho jiné ženě a řeknu jí, že měla dvojčata.\"\n Když ten den přišel, zrovna v nemocnici nebyla žádná jiná rodička. Jediným dalším pacientem byl kněz. Doktor se rozhodl nebojácně dodržet slovo. Když se kněz probral z narkózy, doktor mu říká:\n \"Nevím, jakým zázrakem je to možné, ale porodil jste syna. To on byl příčinou vašich bolestí břicha.\"\n Kněz byl dojat zázračnou událostí a radostně přislíbil syna vychovat. O mnoho let později, když ležel na smrtelném loži,\n si dal syna zavolat a vysvětlil mu jeho zázračné zrození:\n \"Tak vidíš, synu. Já nejsem tvůj otec, ale tvoje matka.\"\n Syn se zmateně zeptá: \"A kdo je můj otec?\"\n Kněz se potutelně usměje: \"Biskup Michal!\"",
         "date": "2011-06-26"
     },
-    {
-        "text": "",
-        "date": "2011-06-26"
-    },
+    
     {
         "text": "Jak poznáte, že je jeviště rovně?\n.\n.\nBubeník slintá z OBOU koutků.",
         "date": "2011-05-24"
@@ -3617,10 +3541,6 @@ var jokeDB = [
         "date": "2011-04-05"
     },
     {
-        "text": "PS: Pro všechny nováčky drobné vysvětlení. Tento soubor vtipů občas už pár let posílám. Nemá ambice být vtipný, prostě to jsou takové ponoření do mnohdy okrajových významů slova humor. Pokud se Vám to líbí, nechte se raději vyšetřit. Pokud nelíbí, tak se neděste, naživo jsem prý celkem příjemný člověk. Pokud se některý z vtipů hrubě dotkl vašeho náboženského či\njiného přesvědčení, založte si protestní skupinu na facebooku. ",
-        "date": "2011-04-05"
-    },
-    {
         "text": "Omlouváme se za omyl ve zprávě o smrti bin Ladina, ve které došlo k překlepu.\n\nBin Ladin is dad.",
         "date": "2011-04-05"
     },
@@ -3654,10 +3574,6 @@ var jokeDB = [
     },
     {
         "text": "Slováky mám rád, dokud se nehraje hokej. Pak nemohou přenést přes srdce, že jsou český béčko.",
-        "date": "2011-04-05"
-    },
-    {
-        "text": "PS: Pro všechny nováčky drobné vysvětlení. Tento soubor vtipů občas už pár let posílám. Nemá ambice být vtipný, prostě to jsou takové ponoření do mnohdy okrajových významů slova humor. Pokud se Vám to líbí, nechte se raději vyšetřit. Pokud nelíbí, tak se neděste, naživo jsem prý celkem příjemný člověk. Pokud se některý z vtipů hrubě dotkl vašeho náboženského či jiného přesvědčení, založte si protestní skupinu na facebooku.",
         "date": "2011-04-05"
     },
     {
@@ -4099,10 +4015,7 @@ var jokeDB = [
         "text": "Židovský mladík se chystá odcestovat na studia. Před odjezdem za ním přijde otec: \"Podívej, dobře víš, že nejsme nikdy nebyli ortodoxní rodina a tradici a víru neberem zas tak vážně. Ale slib mi jedno, nikdy, za žádnou cenu, si neber šiksu!\"\nSyn slíbí a ujistí otce, že se se to rozhodně nestane. Pochopitelně v posledním ročníku pozná blíže krásnou nežidovskou dívku a zamiluje se. Ona lásku opětuje, zažívají krásné chvíle, ale nakonec jí smutně sdělí, že si ji nemůže vzít, protože není židovka. Po chvilce přemýšlení odpoví: \"Netrap se tím. Konvertuji!\"\nPo náležité přípravě skutečně konvertuje, vezmou se a odjedou na svatební cestu do Monaka.\n\nPo čtyřech týdech zpátky doma, sobota 8 ráno, zvoní telefon. Je to mladíkův otec a zní velmi rozčileně: \"Víš, že každou poslední sobotu v měsíci děláme v kanceláři inventuru, dnes je toho hodně, potřebujem pomoct, jaktože tu nejsi?!\" * \"Nemůžu přijít. Žena říká, že je to zakázané, protože je šábes. Chystáme se zrovna do synagogy.\" \nOtec křičí: \"Já ti říkal, neber si šiksu!!!\"",
         "date": "2011-02-14"
     },
-    {
-        "text": "",
-        "date": "2011-02-14"
-    },
+    
     {
         "text": "ona: Míšo, mě je smutno..\nona: řekni mi něco pozitivního...\non: proton",
         "date": "2011-01-18"
@@ -4139,10 +4052,7 @@ var jokeDB = [
         "text": "Přijde občan do předprodeje a chce \"šalinkartu\"...\nProdavač se ptá: \"Na měsíc?\"\n\"Né, po Brně, pičo!\"",
         "date": "2011-01-18"
     },
-    {
-        "text": "",
-        "date": "2011-01-18"
-    },
+    
     {
         "text": "ona: Míšo, mě je smutno..\nona: řekni mi něco pozitivního...\non: proton",
         "date": "2011-01-18"
@@ -4229,10 +4139,7 @@ var jokeDB = [
         "text": "Dědček vzpomíná: \"Když jsem byl malý, dala mi maminka 20 Kčs a poslala mě do obchodu. Přinesl jsem dva chleby, dvě mléka, balíček bonbonů, čokoládu, deset vajíček, koblihu a ještě mi zůstalo na kolotoč. Dnes už to není možné, mají tam plno těch zkurvených kamer!\"",
         "date": "2011-00-28"
     },
-    {
-        "text": "",
-        "date": "2011-00-28"
-    },
+    
     {
         "text": "Etuda malá etude pro ICQ e moll.\n\nOna: \"vzrusuju te?\"\nOn: \"to jako myslis vazne? no docela jo..\"\nOna: \"sorrz, mam jen neco s klavesnici, pomuyes?\"\n\n(ok, uz bylo na kecech. Ale když uz jsem to sem nakopíroval, tak to nebudu mazat)",
         "date": "2011-00-23"
@@ -4273,10 +4180,7 @@ var jokeDB = [
         "text": "Přijde v Anglii za lordem sluha a říká:\n\"Sire, v Americe zvolili černocha prezidentem.\"\nLord: \"No, to z toho bude mít jeho pán jistě radost.\"",
         "date": "2011-00-23"
     },
-    {
-        "text": "",
-        "date": "2011-00-23"
-    },
+    
     {
         "text": "Etuda malá etude pro ICQ e moll.\n\nOna: \"vzrusuju te?\"\nOn: \"to jako myslis vazne? no docela jo..\"\nOna: \"sorrz, mam jen neco s klavesnici, pomuyes?\"\n\n(ok, uz bylo na kecech. Ale když uz jsem to sem nakopíroval, tak to nebudu mazat)",
         "date": "2011-00-23"
@@ -4359,10 +4263,6 @@ var jokeDB = [
         "date": "2011-00-07"
     },
     {
-        "text": "PS: Když se to osvědčí, tak příště zkusím animaci!",
-        "date": "2011-00-07"
-    },
-    {
         "text": "Nelegalni imigrace v USA byla vzdycky problem...\n...zeptejte se libovolneho indiana",
         "date": "2011-00-07"
     },
@@ -4403,10 +4303,6 @@ var jokeDB = [
         "date": "2011-00-07"
     },
     {
-        "text": "PS: Když se to osvědčí, tak příště zkusím animaci!",
-        "date": "2011-00-07"
-    },
-    {
         "text": "Nelegalni imigrace v USA byla vzdycky problem...\n...zeptejte se libovolneho indiana",
         "date": "2011-00-07"
     },
@@ -4444,10 +4340,6 @@ var jokeDB = [
     },
     {
         "text": "Fronta na pracáku:\n☺☺☺☺☺☺☻☺☺☺☺☺☺☺☺☺☺☺☺☺☺☺\n\nFronta na sociálce:\n☺☺☻☻☻☻☻☻☻☻☻☻☻☻☻☻☻☻☻☻☻",
-        "date": "2011-00-07"
-    },
-    {
-        "text": "PS: Když se to osvědčí, tak příště zkusím animaci!",
         "date": "2011-00-07"
     },
     {
@@ -4462,10 +4354,7 @@ var jokeDB = [
         "text": "Pepíček se jednou vrátí odpoledne ze školy a už ve dveřích radostně zvolá: \"Tati, kluci mi všechno řekli - že jsi Mikuláš, Ježíšek, a dokonce i čáp.\"",
         "date": "2010-11-17"
     },
-    {
-        "text": "Kalné ráno po svatbě v Káni galilejské.\nJan se probudí, chytne se za hlavu a zasténá:\n\"Doneste někdo vodu ... ne, Ježíši, ty už ne!\"",
-        "date": "2010-11-17"
-    },
+    
     {
         "text": "Dva muži vyjdou pozdě v noci z restaurace a vidí, jak jim v dálce mizí zadní\nsvětla posledního autobusu.\n\n\"Co budeme dělat, tady taxíky nejezdí, jak se teď dostaneme domů?\", běduje jeden.\n\n\"Víš co?\", navrhne ten druhý, \"tady jsou garáže dopravních podniků, vlezeme\ntam a jeden autobus si vypůjčíme.\"\n\n\"Tak dobrá\", souhlasí první muž, \"tak běž pro autobus, já budu hlídat.\" \nDruhý muž tam vleze a když se půl hodiny nic neděje, vydá se ten první za ním. \"Co se děje?\", ptá se.\n\n\"Ale, nemůžu najít dvaadvacítku. Budeme muset ukrást třicetčtyřku a vystoupit u kostela.\"",
         "date": "2010-11-17"
@@ -4531,10 +4420,7 @@ var jokeDB = [
         "text": "Víte jaký je rozdíl mezi koláčky a koláčky?\n\n.\n.\n\nJá už ano.",
         "date": "2010-11-17"
     },
-    {
-        "text": "",
-        "date": "2010-11-17"
-    },
+    
     {
         "text": "Jedou dva talibanci v Afganistanu autem a ten jeden na druheho : Vyhod me treba u Americke ambasady.",
         "date": "2010-11-01"
@@ -4575,10 +4461,7 @@ var jokeDB = [
         "text": "Jistý mudrc Bektaši byl všemi velice vážený pro svoji moudrost a rozhled. Lidé se divili, jak je moudrý, a on sám to komentoval slovy: \"To je tím, že vím, co je v Koránu.\" Jednou se ho nějaký hlupák zeptal: \"A co je v tom Koránu?\" Bektaši se zamyslel a říká: \"Jsou v něm dvě vylisované kytky a dopis od mého přítele Abduláha.\"",
         "date": "2010-11-01"
     },
-    {
-        "text": "",
-        "date": "2010-11-01"
-    },
+    
     {
         "text": "Jedou dva talibanci v Afganistanu autem a ten jeden na druheho : Vyhod me treba u Americke ambasady.",
         "date": "2010-11-01"
@@ -4653,7 +4536,7 @@ var jokeDB = [
         "date": "2010-10-16"
     },
     {
-        "text": "Přijde Anička domů a říká: \"nehledal mne někdo?\"\n\n\r\n\nPS: Vašku sorry, ale to co posíláš to prostě není vtipný!",
+        "text": "Přijde Anička domů a říká: \"nehledal mne někdo?\"",
         "date": "2010-10-16"
     },
     {
@@ -4680,16 +4563,13 @@ var jokeDB = [
         "text": "Dobrá, dost bylo reklamy a teď pojďte\n\nak se nazývá člověk, kterému chybí levé oko, levé ucho, levá ruka a levá noha ?\n.\n.\n.\nAll right.",
         "date": "2010-10-16"
     },
-    {
-        "text": "Jsem nějaká přetažená, povzdychla si předkožka...",
-        "date": "2010-10-16"
-    },
+    
     {
         "text": "Víš, která slova slyšel Terminátor jako poslední ?\n.\n.\n.\nDyk more, železo!",
         "date": "2010-10-16"
     },
     {
-        "text": "Přijde Anička domů a říká: \"nehledal mne někdo?\"\n\n\r\n\nPS: Vašku sorry, ale to co posíláš to prostě není vtipný!",
+        "text": "Přijde Anička domů a říká: \"nehledal mne někdo?\"",
         "date": "2010-10-16"
     },
     {

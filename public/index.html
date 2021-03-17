@@ -11,7 +11,7 @@
 
 <style>
   body {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: cornflowerblue;
   }
 
@@ -25,7 +25,9 @@
   }
 
   .middle {
-    margin: 0px 50px;
+    float: right;
+    padding: 5px 50px;
+    background-color: orange;
   }
 
   .joke {
@@ -35,26 +37,35 @@
     background-color: yellow;
     padding: 20px
   }
+  .explain {
+    white-space: pre-line;
+    font-size: 2.5em;
+    margin-top: 50px;
+    background-color: yellow;
+    padding: 20px
+  }
 </style>
 
 <body>
-  <div id="app">
+  <div id="app" >
     <div id="header">
       <h1>JST_HUMOR RELOADED</h1>
       <button @click="showHelp=!showHelp"><span v-if="!showHelp">Co to sakra je?</span><span v-else>Ok, zpět na
           humor</span></button>
       <span v-if="!showHelp">
-        <button class="middle" @click="index=Math.floor(Math.random()*jokes.length)">Vyber mi mi náhodně</button>
-        <button @click="index++">Další stejně dobrý vtip</button>
+        <button class="middle" @click="index=Math.floor(Math.random()*jokes.length)">To je super, vyber mi další!</button>
+        <!-- <button @click="index++">Další stejně dobrý vtip</button> -->
       </span>
     </div>
 
-    <div id="content">
+    <div id="content" @click="index=Math.floor(Math.random()*jokes.length)">
       <div class="joke" v-if="!showHelp">{{jokes[index].text}}</div>
-      <div class="joke" v-else>Tuto krádnou sbírku vtipů vytvořil pro milovanou Etnetera Group Jirka Štěpán.
-        Obsahuje vtipy pochybné kvality z let 2010 - 2016. 
-        Vtipy nemají za úkol být nějak kvalitní. Naopak. Jsou to vtipy pitomé, nekorektní a zhusta opravdu nevtipné. <br/>
-        Ale takové mám prostě rád.
+      <div class="explain" v-else>Tuto sbírku jemných vtipů vytvořil pro milovanou Etnetera Group Jirka Štěpán.<br>
+        Obsahuje vtipy pochybné kvality z let 2010 - 2016 narychlo strojově extrahované z emailů.<br>
+        Nejsou vždy vtipné, prostě je to takové ponoření do mnohdy okrajových významů slova humor. <br>
+        Pokud se Vám to líbí, nechte se raději vyšetřit. <br>
+        Pokud nelíbí, tak se neděste, naživo jsem prý celkem příjemný člověk. <br>
+        Pokud se některý z vtipů hrubě dotkl vašeho náboženského či jiného přesvědčení, založte si protestní skupinu na facebooku.
       </div>
     </div>
   </div>
@@ -67,6 +78,9 @@
           index: 0,
           showHelp: false,
           jokes: jokeDB
+        },
+        mounted: function(){
+          this.index=Math.floor(Math.random()*this.jokes.length)
         }
       })
     })
